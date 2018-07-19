@@ -1,4 +1,6 @@
-url:  https://m040601.github.io/jekyllminimanofork/
+#url:  https://m040601.github.io/jekyllminimanofork/
+canonical:  https://m040601.github.io/jekyllminimanofork/
+
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
