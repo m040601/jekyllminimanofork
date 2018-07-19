@@ -1,6 +1,3 @@
-#url:  https://m040601.github.io/jekyllminimanofork/
-#canonical:  https://m040601.github.io/jekyllminimanofork/
-
 title: Your awesome title
 author: GitHub User
 email: your-email@domain.com
@@ -12,6 +9,11 @@ description: > # this means to ignore newlines until "twitter_username:"
 twitter_username: jekyllrb
 github_username:  jekyll
 rss: rss
+
+#url:  https://m040601.github.io/jekyllminimanofork/
+#canonical:  https://m040601.github.io/jekyllminimanofork/
+
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
